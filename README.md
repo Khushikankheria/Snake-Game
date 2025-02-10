@@ -3,8 +3,8 @@ A classic Snake game built using HTML, CSS, and JavaScript. Play and enjoy the n
 
 
 ## 🚀 Features
-🎮 Simple and addictive gameplay
-🔥 Score tracking system
+🎮 Simple and addictive gameplay  <br>
+🔥 Score tracking system  <br>
 📱 Responsive design for all devices
 
 
